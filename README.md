@@ -1,5 +1,6 @@
 # Projeto-Avalia-o
 https://www.figma.com/make/ndedJBDZqnWLa3JoqGR9kY/Tabela-da-Copa-do-Mundo?t=ZmlMkeUOwrs1VyGx-20&fullscreen=1
+
 O site apresenta uma experiência visual moderna e interativa inspirada na identidade oficial da Copa do Mundo FIFA 2026. Com uma paleta sofisticada em tons de azul-marinho e dourado, a interface destaca as principais informações da competição de forma clara e organizada.
 
 No cabeçalho, o usuário encontra o título principal FIFA World Cup 2026, acompanhado da identificação dos países-sede — Estados Unidos, Canadá e México — reforçando o caráter internacional do torneio. Logo abaixo, um painel de estatísticas exibe dados gerais da competição, incluindo o número de seleções participantes, grupos, partidas, estádios e países anfitriões.
