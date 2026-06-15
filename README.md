@@ -1,4 +1,4 @@
-# Projeto-Avalia-o
+# Projeto-Avaliação
 https://www.figma.com/make/ndedJBDZqnWLa3JoqGR9kY/Tabela-da-Copa-do-Mundo?t=ZmlMkeUOwrs1VyGx-20&fullscreen=1
 
 O site apresenta uma experiência visual moderna e interativa inspirada na identidade oficial da Copa do Mundo FIFA 2026. Com uma paleta sofisticada em tons de azul-marinho e dourado, a interface destaca as principais informações da competição de forma clara e organizada.
